@@ -6,7 +6,6 @@ gatherUsageStats = false
 
 [theme]
 base="dark"
-layout="wide"
 primaryColor="#4b6baf"
 
 
